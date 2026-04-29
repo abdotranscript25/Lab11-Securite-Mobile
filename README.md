@@ -439,7 +439,7 @@ flowchart TD
 | **Nom complet** | El Hachimi Abdelhamid |
 | **Pseudonyme GitHub** | abdotranscript25 |
 | **Laboratoire** | Lab 11 - Bypass de la Détection de Root Android avec Frida |
-| **Matière** | Programmation Mobile |
+| **Matière** | Sécurité Mobile |
 | **Année universitaire** | 2025-2026 |
 
 ---
